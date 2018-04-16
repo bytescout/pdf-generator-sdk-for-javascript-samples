@@ -1,13 +1,13 @@
-//****************************************************************************//
-//                                                                            //
-// Download evaluation version: https://bytescout.com/download/web-installer  //
-//                                                                            //
-// Signup Cloud API free trial: https://secure.bytescout.com/users/sign_up    //
-//                                                                            //
-// Copyright Â© 2017 ByteScout Inc. All rights reserved.                       //
-// http://www.bytescout.com                                                   //
-//                                                                            //
-//****************************************************************************//
+//*****************************************************************************************//
+//                                                                                         //
+// Download offline evaluation version (DLL): https://bytescout.com/download/web-installer //
+//                                                                                         //
+// Signup Web API free trial: https://secure.bytescout.com/users/sign_up                   //
+//                                                                                         //
+// Copyright Â© 2017-2018 ByteScout Inc. All rights reserved.                               //
+// http://www.bytescout.com                                                                //
+//                                                                                         //
+//*****************************************************************************************//
 
 
 // function that creates BytescoutPDF instance (defined in BytescoutPDF.js script which have to be included into the same page)
@@ -41,7 +41,7 @@ function CreatePDF(IsInternetExplorer8OrLower) {
     pdf.graphicsDrawRectangle(50, 50, 500, 100);
 
     // add text with default alignment
-    pdf.textAddToBox('cafe, communique, fete, fiancee, melee, emigre, pate, protege; Left aligned text Left aligned text Left aligned text Left aligned text Left aligned text Left aligned text Left aligned text', true);
+    pdf.textAddToBox('café, communiqué, fête, fiancée, mêlée, émigré, pâté, protégé; Left aligned text Left aligned text Left aligned text Left aligned text Left aligned text Left aligned text Left aligned text', true);
 
     // set another text box
     pdf.textSetBox(50, 200, 500, 100);
@@ -50,7 +50,7 @@ function CreatePDF(IsInternetExplorer8OrLower) {
 
     // add justified text
     pdf.textSetAlign(BytescoutPDF.JUSTIFIED);
-    pdf.textAddToBox('cafe, communique, fete, fiancee, melee, emigre, pate, protege; Justfied text Justfied text Justfied text Justfied text Justfied text Justfied text Justfied text Justfied text Justfied text', true);
+    pdf.textAddToBox('café, communiqué, fête, fiancée, mêlée, émigré, pâté, protégé; Justfied text Justfied text Justfied text Justfied text Justfied text Justfied text Justfied text Justfied text Justfied text', true);
 
     // return BytescoutPDF object instance
     return pdf;

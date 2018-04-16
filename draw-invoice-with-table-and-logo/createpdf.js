@@ -1,13 +1,13 @@
-//****************************************************************************//
-//                                                                            //
-// Download evaluation version: https://bytescout.com/download/web-installer  //
-//                                                                            //
-// Signup Cloud API free trial: https://secure.bytescout.com/users/sign_up    //
-//                                                                            //
-// Copyright © 2017 ByteScout Inc. All rights reserved.                       //
-// http://www.bytescout.com                                                   //
-//                                                                            //
-//****************************************************************************//
+//*****************************************************************************************//
+//                                                                                         //
+// Download offline evaluation version (DLL): https://bytescout.com/download/web-installer //
+//                                                                                         //
+// Signup Web API free trial: https://secure.bytescout.com/users/sign_up                   //
+//                                                                                         //
+// Copyright © 2017-2018 ByteScout Inc. All rights reserved.                               //
+// http://www.bytescout.com                                                                //
+//                                                                                         //
+//*****************************************************************************************//
 
 
 // function that creates BytescoutPDF instance (defined in BytescoutPDF.js script which have to be included into the same page)
@@ -57,7 +57,7 @@ function CreatePDF(IsInternetExplorer8OrLower) {
     pdf.textAdd(450, 55, 'INVOICE');
 
     pdf.fontSetSize(16);
-    pdf.textAdd(200, 20, '(keine Ruckerstattung)');
+    pdf.textAdd(200, 20, '(keine R�ckerstattung)');
  
 
     pdf.fontSetSize(12);

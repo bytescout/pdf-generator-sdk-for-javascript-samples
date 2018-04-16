@@ -1,13 +1,13 @@
-//****************************************************************************//
-//                                                                            //
-// Download evaluation version: https://bytescout.com/download/web-installer  //
-//                                                                            //
-// Signup Cloud API free trial: https://secure.bytescout.com/users/sign_up    //
-//                                                                            //
-// Copyright Â© 2017 ByteScout Inc. All rights reserved.                       //
-// http://www.bytescout.com                                                   //
-//                                                                            //
-//****************************************************************************//
+//*****************************************************************************************//
+//                                                                                         //
+// Download offline evaluation version (DLL): https://bytescout.com/download/web-installer //
+//                                                                                         //
+// Signup Web API free trial: https://secure.bytescout.com/users/sign_up                   //
+//                                                                                         //
+// Copyright Â© 2017-2018 ByteScout Inc. All rights reserved.                               //
+// http://www.bytescout.com                                                                //
+//                                                                                         //
+//*****************************************************************************************//
 
 
 // function that creates BytescoutPDF instance (defined in BytescoutPDF.js script which have to be included into the same page)
@@ -40,7 +40,7 @@ function CreatePDF(IsInternetExplorer8OrLower) {
     // draw a rectangle around it
     pdf.graphicsDrawRectangle(50, 50, 200, 200);
     // add text:
-    pdf.textAddToBox('cafe, communique, fete, fiancee, melee, emigre, pate, protege; First column', true);
+    pdf.textAddToBox('café, communiqué, fête, fiancée, mêlée, émigré, pâté, protégé; First column', true);
     pdf.textAddToBox('First column', true);
     pdf.textAddToBox('First column', true);
 

@@ -1,13 +1,13 @@
-//****************************************************************************//
-//                                                                            //
-// Download evaluation version: https://bytescout.com/download/web-installer  //
-//                                                                            //
-// Signup Cloud API free trial: https://secure.bytescout.com/users/sign_up    //
-//                                                                            //
-// Copyright © 2017 ByteScout Inc. All rights reserved.                       //
-// http://www.bytescout.com                                                   //
-//                                                                            //
-//****************************************************************************//
+//*****************************************************************************************//
+//                                                                                         //
+// Download offline evaluation version (DLL): https://bytescout.com/download/web-installer //
+//                                                                                         //
+// Signup Web API free trial: https://secure.bytescout.com/users/sign_up                   //
+//                                                                                         //
+// Copyright © 2017-2018 ByteScout Inc. All rights reserved.                               //
+// http://www.bytescout.com                                                                //
+//                                                                                         //
+//*****************************************************************************************//
 
 
 // function that creates BytescoutPDF instance (defined in BytescoutPDF.js script which have to be included into the same page)
@@ -37,7 +37,7 @@ function CreatePDF(IsInternetExplorer8OrLower) {
     pdf.fontSetSize(14);
 
     // draw rotated text
-    pdf.textAdd(100, 100, 'Rotated 0 cafe', 0);
+    pdf.textAdd(100, 100, 'Rotated 0 caf�', 0);
     pdf.textAdd(100, 100, 'Rotated 45', 45);
     pdf.textAdd(100, 100, 'Rotated 90', 90);
 

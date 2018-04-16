@@ -1,13 +1,13 @@
-//****************************************************************************//
-//                                                                            //
-// Download evaluation version: https://bytescout.com/download/web-installer  //
-//                                                                            //
-// Signup Cloud API free trial: https://secure.bytescout.com/users/sign_up    //
-//                                                                            //
-// Copyright Â© 2017 ByteScout Inc. All rights reserved.                       //
-// http://www.bytescout.com                                                   //
-//                                                                            //
-//****************************************************************************//
+//*****************************************************************************************//
+//                                                                                         //
+// Download offline evaluation version (DLL): https://bytescout.com/download/web-installer //
+//                                                                                         //
+// Signup Web API free trial: https://secure.bytescout.com/users/sign_up                   //
+//                                                                                         //
+// Copyright Â© 2017-2018 ByteScout Inc. All rights reserved.                               //
+// http://www.bytescout.com                                                                //
+//                                                                                         //
+//*****************************************************************************************//
 
 
 // function that creates BytescoutPDF instance (defined in BytescoutPDF.js script which have to be included into the same page)
@@ -43,7 +43,7 @@ function CreatePDF(IsInternetExplorer8OrLower) {
     // add aligned text:
 
     pdf.textSetAlign(BytescoutPDF.LEFT);
-    pdf.textAddToBox('Left aligned text: cafe, communique, fete, fiancee, melee, emigre, pate, protege; ', true);
+    pdf.textAddToBox('Left aligned text: café, communiqué, fête, fiancée, mêlée, émigré, pâté, protégé; ', true);
 
     pdf.textSetAlign(BytescoutPDF.CENTER);
     pdf.textAddToBox('Center aligned text', true);
