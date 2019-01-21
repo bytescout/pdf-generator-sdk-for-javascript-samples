@@ -1,26 +1,26 @@
 ## Index of source code examples:
 
-\add-image-from-base64
-\add-image-from-canvas
-\add-image-from-url
-\alpha-graphics
-\draw-invoice-with-table-and-logo
-\draw-line
-\draw-rectangle
-\drawing-symbols
-\german-umlauts-text
-\header-footer
-\html-formatting-and-links
-\image-rotation
-\outlines
-\page-orientation
-\page-size
-\set-document-properties
-\set-font-name
-\set-font-style
-\text-align
-\text-columns
-\text-images-lines
-\text-rich-formatting
-\text-rotation
-\text-wrap
+\Javascript
+\Javascript\add image to pdf from Canvas
+\Javascript\add image to pdf from URL
+\Javascript\add text in columns to pdf
+\Javascript\draw invoice with logo and table
+\Javascript\draw line in pdf
+\Javascript\draw rectangle in pdf
+\Javascript\draw symbols in pdf
+\Javascript\draw text and images and lines in pdf
+\Javascript\rotate image in pdf
+\Javascript\rotate text in pdf
+\Javascript\set pdf document properties
+\Javascript\set pdf font name
+\Javascript\set pdf font style
+\Javascript\set pdf header and pdf footer
+\Javascript\set pdf page orientation
+\Javascript\set pdf page size
+\Javascript\set pdf text align
+\Javascript\use alpha channel with graphics for pdf
+\Javascript\use german umlauts text in pdf
+\Javascript\use html formatting and links for pdf
+\Javascript\use outlines in pdf
+\Javascript\use rich text formatting in pdf
+\Javascript\wrap text in pdf
