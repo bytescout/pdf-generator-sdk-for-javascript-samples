@@ -1,6 +1,7 @@
 ## Index of source code examples:
 
 \Javascript
+\Javascript\Add Image To PDF From Base64
 \Javascript\add image to pdf from Canvas
 \Javascript\add image to pdf from URL
 \Javascript\add text in columns to pdf
