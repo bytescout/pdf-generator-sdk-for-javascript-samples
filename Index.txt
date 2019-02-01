@@ -2,26 +2,26 @@
 
 \Javascript
 \Javascript\Add Image To PDF From Base64
-\Javascript\add image to pdf from Canvas
-\Javascript\add image to pdf from URL
-\Javascript\add text in columns to pdf
-\Javascript\draw invoice with logo and table
-\Javascript\draw line in pdf
-\Javascript\draw rectangle in pdf
-\Javascript\draw symbols in pdf
-\Javascript\draw text and images and lines in pdf
-\Javascript\rotate image in pdf
-\Javascript\rotate text in pdf
-\Javascript\set pdf document properties
-\Javascript\set pdf font name
-\Javascript\set pdf font style
-\Javascript\set pdf header and pdf footer
-\Javascript\set pdf page orientation
-\Javascript\set pdf page size
-\Javascript\set pdf text align
-\Javascript\use alpha channel with graphics for pdf
-\Javascript\use german umlauts text in pdf
-\Javascript\use html formatting and links for pdf
-\Javascript\use outlines in pdf
-\Javascript\use rich text formatting in pdf
-\Javascript\wrap text in pdf
+\Javascript\Add Image To PDF From Canvas
+\Javascript\Add Image To PDF From URL
+\Javascript\Add Text In Columns To PDF
+\Javascript\Draw Invoice With Logo And Table
+\Javascript\Draw Line In PDF
+\Javascript\Draw Rectangle In PDF
+\Javascript\Draw Symbols In PDF
+\Javascript\Draw Text, Images And Lines In PDF
+\Javascript\Rotate Image In PDF
+\Javascript\Rotate Text In PDF
+\Javascript\Set PDF Document Properties
+\Javascript\Set PDF Font Name
+\Javascript\Set PDF Font Style
+\Javascript\Set PDF Header And PDF Footer
+\Javascript\Set PDF Page Orientation
+\Javascript\Set PDF Page Size
+\Javascript\Set PDF Text Align
+\Javascript\Use Alpha Channel With Graphics For PDF
+\Javascript\Use German Umlauts Text In PDF
+\Javascript\Use HTML Formatting And Links For PDF
+\Javascript\Use Outlines In PDF
+\Javascript\Use Rich Text Formatting In PDF
+\Javascript\Wrap Text In PDF
